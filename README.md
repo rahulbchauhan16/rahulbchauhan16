@@ -43,3 +43,13 @@ A responsive shoe-selling website built using HTML, CSS and JavaScript.
 **Tech Stack:** HTML • CSS • JavaScript
 
 [🌐 Live Demo](https://rahulbchauhan16.github.io/RahulChauhan16/Website/website.html)  
+
+---
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulbchauhan16&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" />
+</p>
