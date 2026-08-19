@@ -56,4 +56,8 @@ A responsive shoe-selling website built using HTML, CSS and JavaScript.
 [🌐 Live Demo](https://rahulbchauhan16.github.io/RahulChauhan16/Website/website.html)  
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rahulbchauhan16" alt="GitHub Streak" />
+</p>
