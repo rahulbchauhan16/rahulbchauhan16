@@ -55,6 +55,18 @@ A responsive shoe-selling website built using HTML, CSS and JavaScript.
 
 [🌐 Live Demo](https://rahulbchauhan16.github.io/RahulChauhan16/Website/website.html)  
 
+### 👟 Shoe Website
+
+A responsive shoe shopping website.
+
+🔗 [Live Demo](YOUR_SHOE_WEBSITE_LINK)
+
+### 🛒 Shopping Cart System
+
+A Flask-based shopping cart web application with 16 products, cart management and coupon functionality.
+
+🔗 [Live Demo](https://shopping-cart-system-htfn.onrender.com/)
+
 ---
 
 ## 📊 GitHub Stats
