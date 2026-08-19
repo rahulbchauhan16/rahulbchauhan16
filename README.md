@@ -59,7 +59,5 @@ A responsive shoe-selling website built using HTML, CSS and JavaScript.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rahulbchauhan16" alt="GitHub Streak" />
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rahulbchauhan16)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulbchauhan16&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" />
 </p>
