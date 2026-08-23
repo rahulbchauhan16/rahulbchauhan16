@@ -66,5 +66,5 @@ A Flask-based shopping cart web application with 16 products, cart management an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=rahulbchauhan16&theme=tokyonight&v=3" alt="Rahul's GitHub Stats" />
+  <img src="https://ghstats.dev/api/card?username=rahulbchauhan16&theme=tokyonight&v=4" alt="Rahul's GitHub Stats" />
 </p>
