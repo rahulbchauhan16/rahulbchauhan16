@@ -1,5 +1,9 @@
+<!-- 🌈 Colorful Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=180&section=header&text=Hi%20👋,%20I'm%20Rahul%20Chauhan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,16,20&height=220&section=header&text=Hi%20👋,%20I'm%20Rahul%20Chauhan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20%7C%20Aspiring%20AI%2FML%20Developer&descAlignY=58&descSize=18"
+    width="100%"
+  />
 </p>
 
 
