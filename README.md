@@ -128,6 +128,13 @@ A Flask-based shopping cart web application with 16 products, cart management an
 
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=rahulbchauhan16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00ffff&icon_color=00ffff&text_color=ffffff&count_private=true"
+    alt="Rahul's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulbchauhan16&theme=tokyonight"
     alt="GitHub Profile Details"
   />
@@ -204,8 +211,6 @@ A Flask-based shopping cart web application with 16 products, cart management an
 <p align="center">
   ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
-
-<!-- CYAN WAVE DECORATION — KEPT -->
 
 <p align="center">
   <img
