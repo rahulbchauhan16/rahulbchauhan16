@@ -170,7 +170,7 @@ A Flask-based shopping cart web application with 16 products, cart management an
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rahulbchauhan16&bg_color=1a1b27&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"
+    src="https://activity-graph.herokuapp.com/graph?username=rahulbchauhan16&bg_color=1a1b27&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"
     alt="Contribution Activity Graph"
   />
 </p>
