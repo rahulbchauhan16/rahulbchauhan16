@@ -1,83 +1,90 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300"
-     xmlns="http://www.w3.org/2000/svg">
-
+<svg
+  width="1200"
+  height="250"
+  viewBox="0 0 1200 250"
+  xmlns="http://www.w3.org/2000/svg"
+>
   <defs>
-    <!-- Animated rainbow gradient -->
+
+    <!-- Rainbow animated gradient -->
     <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff4d6d">
-        <animate attributeName="stop-color"
-                 values="#ff4d6d;#ff9f1c;#feca57;#00d2d3;#5f27cd;#ff4d6d"
-                 dur="8s"
-                 repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#ff0080">
+        <animate
+          attributeName="stop-color"
+          values="#ff0080;#ff8c00;#ffff00;#00ff88;#00ffff;#0080ff;#8000ff;#ff0080"
+          dur="8s"
+          repeatCount="indefinite"
+        />
       </stop>
 
-      <stop offset="25%" stop-color="#ff9f1c">
-        <animate attributeName="stop-color"
-                 values="#ff9f1c;#feca57;#00d2d3;#5f27cd;#ff4d6d;#ff9f1c"
-                 dur="8s"
-                 repeatCount="indefinite"/>
+      <stop offset="50%" stop-color="#00ffff">
+        <animate
+          attributeName="stop-color"
+          values="#00ffff;#0080ff;#8000ff;#ff0080;#ff8c00;#ffff00;#00ff88;#00ffff"
+          dur="8s"
+          repeatCount="indefinite"
+        />
       </stop>
 
-      <stop offset="50%" stop-color="#00d2d3">
-        <animate attributeName="stop-color"
-                 values="#00d2d3;#5f27cd;#ff4d6d;#ff9f1c;#feca57;#00d2d3"
-                 dur="8s"
-                 repeatCount="indefinite"/>
-      </stop>
-
-      <stop offset="75%" stop-color="#5f27cd">
-        <animate attributeName="stop-color"
-                 values="#5f27cd;#ff4d6d;#ff9f1c;#feca57;#00d2d3;#5f27cd"
-                 dur="8s"
-                 repeatCount="indefinite"/>
-      </stop>
-
-      <stop offset="100%" stop-color="#ff4d6d">
-        <animate attributeName="stop-color"
-                 values="#ff4d6d;#ff9f1c;#feca57;#00d2d3;#5f27cd;#ff4d6d"
-                 dur="8s"
-                 repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#8000ff">
+        <animate
+          attributeName="stop-color"
+          values="#8000ff;#ff0080;#ff8c00;#ffff00;#00ff88;#00ffff;#0080ff;#8000ff"
+          dur="8s"
+          repeatCount="indefinite"
+        />
       </stop>
     </linearGradient>
 
-    <!-- Background gradient -->
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#1e293b"/>
-    </linearGradient>
+    <!-- Soft glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
   </defs>
 
   <!-- Background -->
-  <rect width="1200" height="300" fill="url(#bg)" rx="12"/>
+  <rect
+    width="1200"
+    height="250"
+    rx="15"
+    fill="#1f2937"
+  />
 
-  <!-- Main heading -->
-  <text x="600"
-        y="125"
-        text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="52"
-        font-weight="bold"
-        fill="url(#rainbow)">
+  <!-- Top decorative wave -->
+  <path
+    d="M0 15 Q300 45 600 15 T1200 15"
+    fill="none"
+    stroke="#00ffff"
+    stroke-width="3"
+    opacity="0.5"
+  />
+
+  <!-- Main Name -->
+  <text
+    x="600"
+    y="145"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="52"
+    font-weight="bold"
+    fill="url(#rainbow)"
+    filter="url(#glow)"
+  >
     Hi there 👋, I'm Rahul Chauhan
   </text>
 
- 
+  <!-- Bottom decorative wave -->
+  <path
+    d="M0 225 Q300 195 600 225 T1200 225"
+    fill="none"
+    stroke="#00ffff"
+    stroke-width="3"
+    opacity="0.5"
+  />
 
-  <!-- Decorative top wave -->
-  <path d="M0,35
-           C180,85 300,0 480,40
-           C680,90 820,10 1200,55
-           L1200,0
-           L0,0 Z"
-        fill="url(#rainbow)"
-        opacity="0.55"/>
-
-  <!-- Bottom wave -->
-  <path d="M0,245
-           C200,190 360,280 570,235
-           C780,190 970,275 1200,220
-           L1200,300
-           L0,300 Z"
-        fill="url(#rainbow)"
-        opacity="0.65"/>
 </svg>
