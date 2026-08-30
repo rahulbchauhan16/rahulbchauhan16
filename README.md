@@ -52,25 +52,28 @@
 
 <tr>
 <td><b>🤖 AI / Data Science</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=python" />
 
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="48" />
+  &nbsp;&nbsp;
+  
   <img
-    height="48"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+    height="48"
     alt="NumPy"
   />
+  &nbsp;&nbsp;
 
   <img
-    height="48"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+    height="48"
     alt="Pandas"
   />
-
-  &nbsp;&nbsp; <b>Machine Learning</b>
+  
+  &nbsp;&nbsp;&nbsp;
+  <b>Machine Learning</b>
 </td>
 </tr>
-
 <tr>
 <td><b>🔧 Developer Tools</b></td>
 <td>
