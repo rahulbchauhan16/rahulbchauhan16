@@ -51,39 +51,36 @@
 </tr>
 
 <tr>
-<td><b>🤖 AI / Data Science</b></td>
+  <td><b>🤖 AI / Data Science</b></td>
 
-<td align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="48" />
-  &nbsp;&nbsp;
-  
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-    height="48"
-    alt="NumPy"
-  />
-  &nbsp;&nbsp;
+  <td>
+    <table>
+      <tr>
+        <td>
+          <img src="https://skillicons.dev/icons?i=python" height="48" />
+        </td>
 
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-    height="48"
-    alt="Pandas"
-  />
-  
-  &nbsp;&nbsp;&nbsp;
-  <b>Machine Learning</b>
-</td>
-</tr>
-<tr>
-<td><b>🔧 Developer Tools</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</td>
-</tr>
+        <td>
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+            height="48"
+          />
+        </td>
 
-</table>
+        <td>
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+            height="48"
+          />
+        </td>
 
----
+        <td>
+          <b>Machine Learning</b>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>---
 
 ## 🚀 Featured Projects
 
