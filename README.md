@@ -56,7 +56,6 @@
     <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-    &nbsp;&nbsp;<b>Machine Learning</b>
   </td>
 </tr>
 
