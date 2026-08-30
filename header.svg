@@ -4,67 +4,111 @@
   viewBox="0 0 1200 250"
   xmlns="http://www.w3.org/2000/svg"
 >
+
   <defs>
 
-    <!-- Rainbow animated gradient -->
-    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff0080">
+    <!-- Animated rainbow gradient for text -->
+    <linearGradient id="rainbowText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffb703">
         <animate
           attributeName="stop-color"
-          values="#ff0080;#ff8c00;#ffff00;#00ff88;#00ffff;#0080ff;#8000ff;#ff0080"
+          values="#ffb703;#00d4ff;#7b2cff;#ff3d71;#ffb703"
           dur="8s"
           repeatCount="indefinite"
         />
       </stop>
 
-      <stop offset="50%" stop-color="#00ffff">
+      <stop offset="50%" stop-color="#6366f1">
         <animate
           attributeName="stop-color"
-          values="#00ffff;#0080ff;#8000ff;#ff0080;#ff8c00;#ffff00;#00ff88;#00ffff"
+          values="#6366f1;#d946ef;#ff3d71;#00d4ff;#6366f1"
           dur="8s"
           repeatCount="indefinite"
         />
       </stop>
 
-      <stop offset="100%" stop-color="#8000ff">
+      <stop offset="100%" stop-color="#ff3d71">
         <animate
           attributeName="stop-color"
-          values="#8000ff;#ff0080;#ff8c00;#ffff00;#00ff88;#00ffff;#0080ff;#8000ff"
+          values="#ff3d71;#ffb703;#00d4ff;#7b2cff;#ff3d71"
           dur="8s"
           repeatCount="indefinite"
         />
       </stop>
     </linearGradient>
 
-    <!-- Soft glow -->
+    <!-- Colorful background wave -->
+    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7b2cff"/>
+      <stop offset="30%" stop-color="#00d4ff"/>
+      <stop offset="55%" stop-color="#00e5a8"/>
+      <stop offset="75%" stop-color="#d946ef"/>
+      <stop offset="100%" stop-color="#ff3d71"/>
+    </linearGradient>
+
+    <!-- Second wave gradient -->
+    <linearGradient id="waveGradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff3d71"/>
+      <stop offset="35%" stop-color="#7b2cff"/>
+      <stop offset="65%" stop-color="#00d4ff"/>
+      <stop offset="100%" stop-color="#00e5a8"/>
+    </linearGradient>
+
+    <!-- Text glow -->
     <filter id="glow">
-      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feGaussianBlur
+        stdDeviation="3"
+        result="blur"
+      />
       <feMerge>
-        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
   </defs>
 
-  <!-- Background -->
+
+  <!-- Main dark background -->
   <rect
     width="1200"
     height="250"
     rx="15"
-    fill="#1f2937"
+    fill="#273244"
   />
 
-  <!-- Top decorative wave -->
+
+  <!-- TOP COLORFUL FILLED WAVE -->
   <path
-    d="M0 15 Q300 45 600 15 T1200 15"
-    fill="none"
-    stroke="#00ffff"
-    stroke-width="3"
-    opacity="0.5"
+    d="
+      M0,0
+      L1200,0
+      L1200,35
+      C1000,10 850,25 700,30
+      C500,40 350,55 0,25
+      Z
+    "
+    fill="url(#waveGradient)"
+    opacity="0.45"
   />
 
-  <!-- Main Name -->
+
+  <!-- SECOND TOP WAVE -->
+  <path
+    d="
+      M0,0
+      L1200,0
+      L1200,15
+      C900,30 650,5 400,25
+      C200,40 100,15 0,10
+      Z
+    "
+    fill="url(#waveGradient2)"
+    opacity="0.35"
+  />
+
+
+  <!-- MAIN NAME -->
   <text
     x="600"
     y="145"
@@ -72,19 +116,40 @@
     font-family="Arial, sans-serif"
     font-size="52"
     font-weight="bold"
-    fill="url(#rainbow)"
+    fill="url(#rainbowText)"
     filter="url(#glow)"
   >
     Hi there 👋, I'm Rahul Chauhan
   </text>
 
-  <!-- Bottom decorative wave -->
+
+  <!-- BOTTOM COLORFUL FILLED WAVE -->
   <path
-    d="M0 225 Q300 195 600 225 T1200 225"
-    fill="none"
-    stroke="#00ffff"
-    stroke-width="3"
-    opacity="0.5"
+    d="
+      M0,215
+      C200,180 400,195 600,220
+      C800,245 1000,245 1200,215
+      L1200,250
+      L0,250
+      Z
+    "
+    fill="url(#waveGradient)"
+    opacity="0.45"
+  />
+
+
+  <!-- SECOND BOTTOM WAVE -->
+  <path
+    d="
+      M0,230
+      C250,200 450,235 650,225
+      C900,210 1050,240 1200,220
+      L1200,250
+      L0,250
+      Z
+    "
+    fill="url(#waveGradient2)"
+    opacity="0.35"
   />
 
 </svg>
