@@ -54,33 +54,23 @@
   <td><b>🤖 AI / Data Science</b></td>
 
   <td>
-    <table>
-      <tr>
-        <td>
-          <img src="https://skillicons.dev/icons?i=python" height="48" />
-        </td>
+    <img
+      src="https://skillicons.dev/icons?i=python,numpy"
+      height="48"
+      alt="Python and NumPy"
+    />
 
-        <td>
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-            height="48"
-          />
-        </td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+      height="48"
+      alt="Pandas"
+    />
 
-        <td>
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-            height="48"
-          />
-        </td>
-
-        <td>
-          <b>Machine Learning</b>
-        </td>
-      </tr>
-    </table>
+    &nbsp;&nbsp;
+    <b>Machine Learning</b>
   </td>
-</tr>---
+</tr>
+---
 
 ## 🚀 Featured Projects
 
