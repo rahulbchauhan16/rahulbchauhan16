@@ -70,6 +70,10 @@
     <b>Machine Learning</b>
   </td>
 </tr>
+
+</table>
+
+---
 ---
 
 ## 🚀 Featured Projects
