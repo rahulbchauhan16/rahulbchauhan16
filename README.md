@@ -5,7 +5,7 @@ BCA Student | Aspiring AI/ML Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;BCA+Student+%7C+Aspiring+AI%2FML+Developer;Learning%2C+Building+and+Growing+Every+Day!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=BCA+Student+at+Darshan+University;Aspiring+AI%2FML+Developer;Learning%2C+Building+and+Growing+Every+Day!" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ BCA Student | Aspiring AI/ML Developer
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Student
+- 🎓 BCA Student at Darshan University
 - 🤖 Aspiring AI/ML Developer
 - 🌱 Currently learning Python, Data Science and Machine Learning
 - 💻 Interested in Programming and Web Development
@@ -26,7 +26,8 @@ BCA Student | Aspiring AI/ML Developer
 
 ## 🛠️ Technical Arsenal
 
-<table>
+<table align="center">
+
 <tr>
 <td><b>💻 Languages</b></td>
 <td>
@@ -44,9 +45,15 @@ BCA Student | Aspiring AI/ML Developer
 <tr>
 <td><b>🤖 AI / Data Science</b></td>
 <td>
+
 <img src="https://skillicons.dev/icons?i=python" />
-&nbsp;
-NumPy &nbsp; | &nbsp; Pandas &nbsp; | &nbsp; Machine Learning
+
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+
+<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+
+&nbsp;&nbsp; <b>Machine Learning</b>
+
 </td>
 </tr>
 
@@ -56,13 +63,15 @@ NumPy &nbsp; | &nbsp; Pandas &nbsp; | &nbsp; Machine Learning
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </td>
 </tr>
+
 </table>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
+<table align="center">
+
 <tr>
 <th>Project</th>
 <th>Description</th>
@@ -120,54 +129,66 @@ A Flask-based shopping cart web application with 16 products, cart management an
 
 ---
 
-# 📊 GitHub Stats & Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulbchauhan16&theme=tokyonight" />
-</p>
-
-<br>
-
-<p align="center">
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulbchauhan16&theme=tokyonight"
-width="48%"
-/>
-
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulbchauhan16&theme=tokyonight"
-width="48%"
-/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbchauhan16&theme=tokyonight&hide_border=false&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"
-/>
-
-</p>
-
-<br>
-
-## 📈 Contribution Activity
+<h2 align="center">📊 GitHub Stats & Analytics</h2>
 
 <p align="center">
   <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=rahulbchauhan16&bg_color=1a1b27&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulbchauhan16&theme=tokyonight"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulbchauhan16&theme=tokyonight"
+alt="Top Languages by Repository"
+/>
+</td>
+
+<td align="center">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulbchauhan16&theme=tokyonight"
+alt="Top Languages by Commit"
+/>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbchauhan16&theme=tokyonight&hide_border=false&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"
+    alt="GitHub Streak"
+  />
+</p>
+
+<br>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rahulbchauhan16&bg_color=1a1b27&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"
+    alt="Contribution Activity Graph"
   />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbchauhan16/rahulbchauhan16/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+  <img
+    src="https://raw.githubusercontent.com/rahulbchauhan16/rahulbchauhan16/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake Animation"
+  />
 </p>
 
 ---
@@ -183,9 +204,11 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbchauhan16&them
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://github.com/rahulbchauhan16">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
+
+<a href="https://github.com/rahulbchauhan16">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
 </p>
 
 ---
