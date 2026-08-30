@@ -50,11 +50,13 @@
 </tr>
 
 <tr>
-  <td><b>🤖 AI / Data Science</b></td>
+  <td>🤖 AI / Data Science</td>
   <td>
-    <img src="https://skillicons.dev/icons?i=python,numpy" height="48" alt="Python and NumPy" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-    &nbsp;&nbsp;<b>Machine Learning</b>
+    <div style="display:flex; align-items:center; gap:8px;">
+      <img src="https://skillicons.dev/icons?i=python,numpy" height="48" alt="Python and NumPy" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+      <b>Machine Learning</b>
+    </div>
   </td>
 </tr>
 ---
