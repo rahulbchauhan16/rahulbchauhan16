@@ -177,17 +177,6 @@ A Flask-based shopping cart web application with 16 products, cart management an
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/rahulbchauhan16/rahulbchauhan16/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake Animation"
-  />
-</p>
-
----
-
 ## 🧰 Languages & Tools
 
 <p align="center">
