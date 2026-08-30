@@ -5,11 +5,17 @@ BCA Student | Aspiring AI/ML Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=BCA+Student+at+Darshan+University;Aspiring+AI%2FML+Developer;Learning%2C+Building+and+Growing+Every+Day!" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=BCA+Student+at+Darshan+University;Aspiring+AI%2FML+Developer;Learning%2C+Building+and+Growing+Every+Day!"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulbchauhan16&label=Profile%20Views&color=00ffff&style=flat" alt="Profile views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=rahulbchauhan16&label=Profile%20Views&color=00ffff&style=flat"
+    alt="Profile views"
+  />
 </p>
 
 ---
@@ -31,36 +37,42 @@ BCA Student | Aspiring AI/ML Developer
 <tr>
 <td><b>💻 Languages</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </td>
 </tr>
 
 <tr>
 <td><b>🌐 Frontend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </td>
 </tr>
 
 <tr>
 <td><b>🤖 AI / Data Science</b></td>
 <td>
+  <img src="https://skillicons.dev/icons?i=python" />
 
-<img src="https://skillicons.dev/icons?i=python" />
+  <img
+    height="48"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+    alt="NumPy"
+  />
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img
+    height="48"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+    alt="Pandas"
+  />
 
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-
-&nbsp;&nbsp; <b>Machine Learning</b>
-
+  &nbsp;&nbsp; <b>Machine Learning</b>
 </td>
 </tr>
 
 <tr>
 <td><b>🔧 Developer Tools</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </td>
 </tr>
 
@@ -144,17 +156,17 @@ A Flask-based shopping cart web application with 16 products, cart management an
 <tr>
 
 <td align="center">
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulbchauhan16&theme=tokyonight"
-alt="Top Languages by Repository"
-/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulbchauhan16&theme=tokyonight"
+    alt="Top Languages by Repository"
+  />
 </td>
 
 <td align="center">
-<img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulbchauhan16&theme=tokyonight"
-alt="Top Languages by Commit"
-/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulbchauhan16&theme=tokyonight"
+    alt="Top Languages by Commit"
+  />
 </td>
 
 </tr>
@@ -169,7 +181,7 @@ alt="Top Languages by Commit"
   />
 </p>
 
-<br>
+---
 
 <h2 align="center">📈 Contribution Activity</h2>
 
@@ -196,7 +208,9 @@ alt="Top Languages by Commit"
 ## 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode" />
+  <img
+    src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode"
+  />
 </p>
 
 ---
@@ -204,11 +218,9 @@ alt="Top Languages by Commit"
 <h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
-
-<a href="https://github.com/rahulbchauhan16">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-
+  <a href="https://github.com/rahulbchauhan16">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
 </p>
 
 ---
@@ -217,6 +229,12 @@ alt="Top Languages by Commit"
   ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
 
+<!-- CYAN WAVE DECORATION — KEPT AS REQUESTED -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer"
+    alt="Footer Wave"
+    width="100%"
+  />
 </p>
