@@ -31,6 +31,7 @@
 - 🚀 Building projects to improve my practical skills
 
 ---
+
 ## 🛠️ Technical Arsenal
 
 <table align="center">
@@ -52,13 +53,15 @@
 <tr>
   <td>🤖 AI / Data Science</td>
   <td>
-    <div style="display:flex; align-items:center; gap:8px;">
-      <img src="https://skillicons.dev/icons?i=python,numpy" height="48" alt="Python and NumPy" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
-      <b>Machine Learning</b>
-    </div>
+    <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="Pandas" />
+    &nbsp;&nbsp;<b>Machine Learning</b>
   </td>
 </tr>
+
+</table>
+
 ---
 
 ## 🚀 Featured Projects
