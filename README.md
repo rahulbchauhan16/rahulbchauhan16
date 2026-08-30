@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/rahulbchauhan16/rahulbchauhan16/main/header.svg?v=5"
+    src="https://raw.githubusercontent.com/rahulbchauhan16/rahulbchauhan16/main/header.svg?v=6"
     width="100%"
     alt="Rahul Chauhan Header"
   />
