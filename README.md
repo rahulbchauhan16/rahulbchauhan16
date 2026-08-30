@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbchauhan16/rahulbchauhan16/main/header.svg" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/rahulbchauhan16/rahulbchauhan16/main/header.svg?v=2" 
+    width="100%" 
+    alt="Rahul Chauhan Header"
+  />
 </p>
-
 
 <p align="center">
   <img
@@ -218,7 +221,11 @@ A Flask-based shopping cart web application with 16 products, cart management an
 
 <p align="center">
   <a href="https://github.com/rahulbchauhan16">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      height="45"
+      alt="GitHub"
+    />
   </a>
 </p>
 
@@ -228,7 +235,7 @@ A Flask-based shopping cart web application with 16 products, cart management an
   ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
 
-<!-- CYAN WAVE DECORATION — KEPT AS REQUESTED -->
+<!-- CYAN WAVE DECORATION — KEPT -->
 
 <p align="center">
   <img
