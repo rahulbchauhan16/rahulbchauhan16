@@ -61,15 +61,7 @@
     Hi there 👋, I'm Rahul Chauhan
   </text>
 
-  <!-- Subtitle -->
-  <text x="600"
-        y="185"
-        text-anchor="middle"
-        font-family="Arial, sans-serif"
-        font-size="28"
-        fill="#e5e7eb">
-    BCA Student | Aspiring AI/ML Developer
-  </text>
+ 
 
   <!-- Decorative top wave -->
   <path d="M0,35
