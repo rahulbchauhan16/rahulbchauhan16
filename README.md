@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rahul Chauhan</h1>
 
-<h3 align="center">BCA Student | Aspiring AI/ML Developer</h3>
+<h3 align="center">
+BCA Student | Aspiring AI/ML Developer
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulbchauhan16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;BCA+Student+%7C+Aspiring+AI%2FML+Developer;Learning%2C+Building+and+Growing+Every+Day!" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulbchauhan16&label=Profile%20Views&color=00ffff&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -12,115 +18,182 @@
 
 - 🎓 BCA Student
 - 🤖 Aspiring AI/ML Developer
-- 🐍 Currently building my skills in Python, Data Science and Machine Learning
-- 📚 Learning through coding, projects and problem-solving
-- 🚀 Interested in Artificial Intelligence and Machine Learning
+- 🌱 Currently learning Python, Data Science and Machine Learning
+- 💻 Interested in Programming and Web Development
+- 🚀 Building projects to improve my practical skills
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Arsenal
 
-| 💻 Programming | 🤖 AI / ML & Data Science | 🌐 Web Development | 🔧 Tools |
-|---|---|---|---|
-| C | Python | HTML | Git |
-| C++ | NumPy | CSS | GitHub |
-| Java | Pandas | Flask | |
-| Python | Machine Learning | | |
+<table>
+<tr>
+<td><b>💻 Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</td>
+</tr>
 
----
+<tr>
+<td><b>🌐 Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</td>
+</tr>
 
-## 🛠️ Skills
+<tr>
+<td><b>🤖 AI / Data Science</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python" />
+&nbsp;
+NumPy &nbsp; | &nbsp; Pandas &nbsp; | &nbsp; Machine Learning
+</td>
+</tr>
 
-### 💻 Programming
-
-- C
-- C++
-- Java
-- Python
-
-### 🤖 AI / ML & Data Science
-
-- Python
-- NumPy
-- Pandas
-- Machine Learning
-
-### 🌐 Web Development
-
-- HTML
-- CSS
-
-### 🔧 Tools
-
-- Git
-- GitHub
+<tr>
+<td><b>🔧 Developer Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Languages & Tools
+## 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,flask,git,github" />
-</p>
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Live Demo</th>
+</tr>
+
+<tr>
+<td><b>🛒 Urban Step</b></td>
+<td>Shoe E-Commerce Website</td>
+<td>HTML, CSS, JavaScript</td>
+<td>
+<a href="https://rahulbchauhan16.github.io/RahulChauhan16/Website/website.html">
+🌐 Live Demo
+</a>
+</td>
+</tr>
+
+<tr>
+<td><b>🛒 Shopping Cart System</b></td>
+<td>Shopping cart web application with cart management and coupon functionality</td>
+<td>Python, Flask, HTML, CSS</td>
+<td>
+<a href="https://shopping-cart-system-htfn.onrender.com/">
+🌐 Live Demo
+</a>
+</td>
+</tr>
+
+</table>
 
 ---
 
-# 🚀 Featured Projects
+## 📂 Project Details
 
-| Project | Description | Tech Stack | Live Demo |
-|---|---|---|---|
-| 🛒 **Shopping Cart System** | Flask-based shopping cart application with 16 products, cart management, coupons, payment options and downloadable receipts. | Python, Flask, HTML, CSS | [🌐 View Project](https://shopping-cart-system-htfn.onrender.com/) |
-| 👟 **Urban Step** | Responsive shoe-selling e-commerce website. | HTML, CSS, JavaScript | [🌐 View Project](https://rahulbchauhan16.github.io/RahulChauhan16/Website/website.html) |
-
----
-
-## 📂 Projects
-
-### 🛒 Shopping Cart System
-
-A Flask-based shopping cart web application with **16 products**, cart management and coupon functionality.
-
-**Features:**
-- 🛒 Add and Remove Products
-- 📦 Stock Management
-- 🎟️ Coupon System
-- 💳 Multiple Payment Options
-- 🧾 Downloadable Receipt
-
-**Tech Stack:** Python • Flask • HTML • CSS
-
-🔗 [Live Demo](https://shopping-cart-system-htfn.onrender.com/)
-
----
-
-### 👟 Urban Step — Shoe E-Commerce Website
+### 🛒 Urban Step — Shoe E-Commerce Website
 
 A responsive shoe-selling website built using HTML, CSS and JavaScript.
 
 **Tech Stack:** HTML • CSS • JavaScript
 
-🔗 [Live Demo](https://rahulbchauhan16.github.io/RahulChauhan16/Website/website.html)
+🌐 **Live Demo:**  
+[Click Here to View Urban Step](https://rahulbchauhan16.github.io/RahulChauhan16/Website/website.html)
+
+---
+
+### 🛒 Shopping Cart System
+
+A Flask-based shopping cart web application with 16 products, cart management and coupon functionality.
+
+**Tech Stack:** Python • Flask • HTML • CSS
+
+🌐 **Live Demo:**  
+[Click Here to View Shopping Cart System](https://shopping-cart-system-htfn.onrender.com/)
 
 ---
 
 # 📊 GitHub Stats & Analytics
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=rahulbchauhan16&theme=tokyonight&v=6" alt="Rahul's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulbchauhan16&theme=tokyonight" />
+</p>
+
+<br>
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulbchauhan16&theme=tokyonight"
+width="48%"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulbchauhan16&theme=tokyonight"
+width="48%"
+/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbchauhan16&theme=tokyonight&hide_border=false&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF"
+/>
+
+</p>
+
+<br>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=rahulbchauhan16&bg_color=1a1b27&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"
+  />
 </p>
 
 ---
 
-## 🤖 AI/ML Learning Journey
+## 🐍 Contribution Snake
 
-Currently building my foundation in:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbchauhan16/rahulbchauhan16/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
 
-🐍 **Python** • 📊 **NumPy** • 🐼 **Pandas** • 🤖 **Machine Learning**
+---
 
-My goal is to continuously learn, build projects and grow as an **AI/ML Developer**.
+## 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+<h3 align="center">🤝 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://github.com/rahulbchauhan16">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=120&section=footer" />
 </p>
