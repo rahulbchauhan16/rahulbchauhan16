@@ -98,6 +98,16 @@
 
 </table>
 
+<tr>
+<td><b>🌦️ Weather App</b></td>
+<td>Weather application that provides weather information for searched cities</td>
+<td>Python, Flask, HTML, CSS, JavaScript</td>
+<td>
+<a href="#">
+🌐 Live Demo
+</a>
+</td>
+</tr>
 ---
 
 ## 📂 Project Details
@@ -123,7 +133,14 @@ A Flask-based shopping cart web application with 16 products, cart management an
 [Click Here to View Shopping Cart System](https://shopping-cart-system-htfn.onrender.com/)
 
 ---
+### 🌦️ Weather Application
 
+A Flask-based weather application that provides real-time weather information for searched cities.
+
+Tech Stack: Python • Flask • HTML • CSS • JavaScript • Weather API
+
+🌐 Live Demo
+---
 <h2 align="center">📊 GitHub Stats & Analytics</h2>
 
 <p align="center">
