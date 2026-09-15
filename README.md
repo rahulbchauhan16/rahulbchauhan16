@@ -99,7 +99,7 @@
 <tr>
 <td><b>🌦️ Weather App</b></td>
 <td>Weather application that provides weather information for searched cities</td>
-<td>Python, Flask, HTML, CSS, JavaScript,Numpy</td>
+<td>Python, Flask, HTML, CSS, JavaScript, Numpy</td>
 <td>
 <a href="https://weather-project-qifisf93h-rahulbchauhan16.vercel.app/">
 🌐 Live Demo
