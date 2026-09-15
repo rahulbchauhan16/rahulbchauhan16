@@ -51,7 +51,7 @@
 </tr>
 
 <tr>
-  <td>🤖 AI / Data Science</td>
+  <td><b>🤖 AI / Data Science</b></td>
   <td>
     <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="NumPy" />
@@ -96,8 +96,6 @@
 </td>
 </tr>
 
-</table>
-
 <tr>
 <td><b>🌦️ Weather App</b></td>
 <td>Weather application that provides weather information for searched cities</td>
@@ -108,6 +106,9 @@
 </a>
 </td>
 </tr>
+
+</table>
+
 ---
 
 ## 📂 Project Details
@@ -133,14 +134,18 @@ A Flask-based shopping cart web application with 16 products, cart management an
 [Click Here to View Shopping Cart System](https://shopping-cart-system-htfn.onrender.com/)
 
 ---
+
 ### 🌦️ Weather Application
 
 A Flask-based weather application that provides real-time weather information for searched cities.
 
-Tech Stack: Python • Flask • HTML • CSS • JavaScript • Weather API
+**Tech Stack:** Python • Flask • HTML • CSS • JavaScript • Weather API
 
-🌐 Live Demo
+🌐 **Live Demo:**  
+[Click Here to View Weather Application](https://weather-project-qifisf93h-rahulbchauhan16.vercel.app/)
+
 ---
+
 <h2 align="center">📊 GitHub Stats & Analytics</h2>
 
 <p align="center">
