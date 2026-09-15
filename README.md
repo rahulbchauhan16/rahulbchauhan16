@@ -103,7 +103,7 @@
 <td>Weather application that provides weather information for searched cities</td>
 <td>Python, Flask, HTML, CSS, JavaScript</td>
 <td>
-<a href="#">
+<a href="https://weather-project-qifisf93h-rahulbchauhan16.vercel.app/">
 🌐 Live Demo
 </a>
 </td>
