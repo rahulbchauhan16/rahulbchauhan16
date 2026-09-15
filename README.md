@@ -99,7 +99,7 @@
 <tr>
 <td><b>🌦️ Weather App</b></td>
 <td>Weather application that provides weather information for searched cities</td>
-<td>Python, Flask, HTML, CSS, JavaScript</td>
+<td>Python, Flask, HTML, CSS, JavaScript,Numpy</td>
 <td>
 <a href="https://weather-project-qifisf93h-rahulbchauhan16.vercel.app/">
 🌐 Live Demo
@@ -139,7 +139,7 @@ A Flask-based shopping cart web application with 16 products, cart management an
 
 A Flask-based weather application that provides real-time weather information for searched cities.
 
-**Tech Stack:** Python • Flask • HTML • CSS • JavaScript • Weather API
+**Tech Stack:** Python • Flask • HTML • CSS • JavaScript • Numpy • Weather API
 
 🌐 **Live Demo:**  
 [Click Here to View Weather Application](https://weather-project-qifisf93h-rahulbchauhan16.vercel.app/)
