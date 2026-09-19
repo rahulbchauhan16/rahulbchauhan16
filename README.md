@@ -107,6 +107,17 @@
 </td>
 </tr>
 
+<tr>
+<td><b>🏦 Banking Management System</b></td>
+<td>Banking app with Saving and Current accounts, loans with EMI tracking and an admin console</td>
+<td>Java, HTML, CSS, JavaScript</td>
+<td>
+<a href="https://bankingmanagementsystem-t7p6.onrender.com/">
+🌐 Live Demo
+</a>
+</td>
+</tr>
+
 </table>
 
 ---
@@ -146,6 +157,21 @@ A Flask-based weather application that provides real-time weather information fo
 
 ---
 
+### 🏦 Banking Management System
+
+A full-stack banking application with a Java back end and an HTML, CSS and JavaScript front end. It supports Saving and Current accounts, deposits and withdrawals with PIN checks, loans with EMI recalculation, and an admin console for managing users, loans and reports.
+
+**Tech Stack:** Java • HTML • CSS • JavaScript
+
+🌐 **Live Demo:**  
+[Click Here to View Banking Management System](https://bankingmanagementsystem-t7p6.onrender.com/)
+
+💻 **Source Code:**  
+[View on GitHub](https://github.com/rahulbchauhan16/BankingManagementSystem)
+
+---
+
+---
 <h2 align="center">📊 GitHub Stats & Analytics</h2>
 
 <p align="center">
