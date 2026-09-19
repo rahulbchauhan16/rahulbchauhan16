@@ -166,11 +166,6 @@ A full-stack banking application with a Java back end and an HTML, CSS and JavaS
 🌐 **Live Demo:**  
 [Click Here to View Banking Management System](https://bankingmanagementsystem-t7p6.onrender.com/)
 
-💻 **Source Code:**  
-[View on GitHub](https://github.com/rahulbchauhan16/BankingManagementSystem)
-
----
-
 ---
 <h2 align="center">📊 GitHub Stats & Analytics</h2>
 
