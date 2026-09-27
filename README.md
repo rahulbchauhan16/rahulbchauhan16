@@ -171,7 +171,7 @@ A full-stack banking application with a Java back end and an HTML, CSS and JavaS
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=rahulbchauhan16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00ffff&icon_color=00ffff&text_color=ffffff&count_private=true&v=2"
+    src="https://github-readme-stats.vercel.app/api?username=rahulbchauhan16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00ffff&icon_color=00ffff&text_color=ffffff&count_private=true&cache_seconds=0"
     alt="Rahul's GitHub Stats"
   />
 </p>
