@@ -117,7 +117,16 @@
 </a>
 </td>
 </tr>
-
+<tr>
+<td><b>🎟️ EventHub</b></td>
+<td>Event and sports venue booking app with seat selection and simulated payments</td>
+<td>React, React Router, Context API, localStorage</td>
+<td>
+<a href="https://event-hub-iota-nine.vercel.app/">
+🌐 Live Demo
+</a>
+</td>
+</tr>
 </table>
 
 ---
@@ -167,6 +176,18 @@ A full-stack banking application with a Java back end and an HTML, CSS and JavaS
 [Click Here to View Banking Management System](https://bankingmanagementsystem-t7p6.onrender.com/)
 
 ---
+
+### 🎟️ EventHub — Event & Venue Booking App
+
+A responsive React app to book events, seats and sports venues. It has login, seat selection, a My Bookings page and simulated payments. This is a demo project, and data is stored in the browser.
+
+**Tech Stack:** React • React Router • Context API • localStorage
+
+🌐 **Live Demo:**
+[Click Here to View EventHub](https://event-hub-iota-nine.vercel.app/)
+
+---
+
 <h2 align="center">📊 GitHub Stats & Analytics</h2>
 
 
